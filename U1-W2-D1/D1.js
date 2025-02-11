@@ -70,3 +70,4 @@ console.log(32 - 12);
 let name1 = "john";
 let name2 = "John";
 console.log("name1" === "name2");
+console.log(Boolean(name1.toLowerCase() === name2()));
